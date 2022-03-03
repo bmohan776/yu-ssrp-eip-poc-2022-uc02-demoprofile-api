@@ -10,7 +10,7 @@ Once 'HelloWorld' started working, I wanted to experiment with something a bit m
 <!-- **Note:** This is not a production code and was written for research purposes only. -->
 
 ## Database diagram
-![Database Diagram](Diagram.jpg?raw=true "Database Diagram")
+![Database Diagram](/demo.PNG)
 
 ## Create database tables
 The app will automatically create all 3 tables with sample data in the database on startup and will automatically drop them on shutdown
